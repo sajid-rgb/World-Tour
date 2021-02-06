@@ -1,0 +1,61 @@
+body{
+    background-color: darkgrey;
+    
+}
+.mainDiv{
+    background-color:cadetblue;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    
+}
+.mainDiv  h3{
+    color:darkslategray;
+    font-size: 35px;
+}
+.mainDiv  p{
+    color:maroon;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#mainSection img{
+width: 200px;
+margin-top: 30px;}
+#mainSection button{
+    width: 150px;
+    height: 40px;
+    background-color:silver;
+    color: black;
+    border-radius: 5px;
+}
+#secondSection{
+    display: none;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#secondSection img{
+    margin-left: 50px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+#secondSection p{
+    font-weight: normal;
+    color:black;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+#secondSection h3{
+    color: crimson;
+    font-size: 30px;
+}
+#secondSection button{
+    background-color:darksalmon;
+    margin-left: 0px;
+    height: 30px;
+    width: 50px;
+}
